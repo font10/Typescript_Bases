@@ -3,6 +3,8 @@
     ===== Código de TypeScript =====
 */
 
+// TIPOS BASICOS
+
 // variable: tipus_variable = valor
 let nombre: string = 'Strider';
 // Pot rebre dos tipus de dades number | string

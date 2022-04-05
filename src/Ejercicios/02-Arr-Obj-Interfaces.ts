@@ -3,6 +3,8 @@
     ===== Código de TypeScript =====
 */
 
+// Arrays objetos interfaces
+
 // Array de tipus string
 let habilidades: string[] = ['Bash', 'Counter', 'Healing'];
 
