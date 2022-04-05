@@ -1,4 +1,6 @@
 
+// GENERICOS
+
 // T es un generico para recibir cualquier tipo de datos
 function queTipoSoy<T>(argumento: T) {
     return argumento;
